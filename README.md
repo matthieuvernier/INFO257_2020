@@ -32,9 +32,9 @@ Programa 2020 (algunos cambios menores posibles): [[INFO257_2020]](https://docs.
 - Regresión Logística
 	- [[1]](https://www.youtube.com/watch?v=yIYKR4sgzI8), [[2]](https://www.youtube.com/watch?v=BfKanl1aSG0), [[3]](https://www.youtube.com/watch?v=xxFYro8QuXA)
 - Gradient Descent
-	- [[1](https://www.youtube.com/watch?v=sDv4f4s2SB8)
+	- [[1]](https://www.youtube.com/watch?v=sDv4f4s2SB8)
 - Árbol de decisión
-	- [[1](https://www.youtube.com/watch?v=7VeUPuFGJHk), [[2]](https://www.youtube.com/watch?v=wpNl-JwwplA)
+	- [[1]](https://www.youtube.com/watch?v=7VeUPuFGJHk), [[2]](https://www.youtube.com/watch?v=wpNl-JwwplA)
 - Ensemble Learning (Random Forest)
 	- [[1]](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ), [[2]](https://www.youtube.com/watch?v=nyxTdL_4Q-Q)
 ***

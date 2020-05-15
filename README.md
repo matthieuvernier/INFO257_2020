@@ -14,10 +14,13 @@ Programa 2020 (algunos cambios menores posibles): [[INFO257_2020]](https://docs.
 ***
 ## Contenidos
 
+- Tarea práctica: [[Doc]](https://docs.google.com/document/d/1-oZrexNbKHGwV239iYcXHLaKSXkjtgPddWKaLA2FMu0/edit?usp=sharing)
+
 - **Unidad "Aprendizaje Supervisado":** Talleres de resolución de problemas de clasificación automática
 	- Introducción a Regresión Lineal y Regresión Logística: [[Notebook 1]](unidad1/Notebook_1.ipynb): 
 	- ¿Cómo estimar los paramétros de los modelos de Regresión Lineal y Logística?: [[Slides]](https://docs.google.com/presentation/d/11O3ud6ywHuaro6OemhyeH07nuJtdc4ybMuTJicnMnm8/edit?usp=sharing), [[Notebook 2-a]](unidad1/Notebook_2_a.ipynb), [[Notebook 2-b]](unidad1/Notebook_2_b.ipynb): 
 	- Introducción a algorítmos de árboles de decisión: [[Notebook 3-a]](unidad1/Notebook_3_a.ipynb), [[Notebook 3-b]](unidad1/Notebook_3_b.ipynb)
+	- Clasificación supervisada de textos: [[Notebook 4]](unidad1/Notebook4.ipynb) 
 	- Técnicas de _Ensemble Learning_
 	- Otros datasets para experimentar:
 		- Sloan Digital Sky Survey DR14: Clasificación de estrellas, galaxias y cuásares [[dataset]](https://www.kaggle.com/lucidlenn/sloan-digital-sky-survey)
